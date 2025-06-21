@@ -15,6 +15,8 @@ This app simulates a basic login/signup interface with navigation between three 
 - Input fields for Email, Full Name, Password, and Confirm Password 📑 ✏️.
 - Button to submit a new account (functionality placeholder) ▶️ .
 - Option to return to the Login page 🔙 .
-
+-Technologies used 🛠️🔎:
+- Python 🐍
+- Flet📝
 
 
